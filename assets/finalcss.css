@@ -1,0 +1,37 @@
+/*you can change the setting for body, here the image is repeated in both directions*/
+body {
+   
+    background-color:#131f1a;
+    height:1000px; 
+    background-image:url(photo1o.png);
+    background-repeat:repeat ;      
+}    
+.app-head{
+    height:60px;
+    font-family:courier;
+    line-height:60px;
+    border-bottom:thin lightgrey solid;
+   
+}
+.li{
+    border-bottom:thin teal solid;
+   
+}
+
+.gap{
+    height:10px;
+}
+.gap2{
+    height:4px;
+}
+.recop{
+    font-size:18px;
+    font-family:serif;
+}
+
+
+
+
+
+
+    
